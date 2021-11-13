@@ -25,7 +25,7 @@ if lang == 'M':
 
 
                 if szam1 < szam2:
-                 print("Tipp: A szám kissed")
+                 print("Tipp: A szám kisebb")
 
                 else:
                     print("Tipp: A szám nagyobb")
